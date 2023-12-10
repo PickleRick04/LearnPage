@@ -2,9 +2,10 @@ body{
   background: pink;
   text-align: center;
 }
+/**
 .info-box {
-    border: 20px solid #000; /* You can change the color (e.g., #000 for black) and thickness of the border */
+    border: 20px solid #000; /* You can change the color (e.g., #000 for black) and thickness of the border 
     padding: 2px;
     margin: 50px;
     border-radius: 5px;
-}
+}*/
